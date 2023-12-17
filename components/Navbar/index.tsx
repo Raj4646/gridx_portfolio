@@ -63,7 +63,7 @@ const Navbar = () => {
               Contact
             </a>
             <button className="bg-[#323232] hover:bg-white text-white hover:text-[#323232] text-sm font-semibold py-3 transition ease-in-out  px-8 rounded-2xl ">
-              Let's Talk
+              {"Let's Talk"}
             </button>
           </div>
         )}
@@ -85,7 +85,7 @@ const Navbar = () => {
         </div>
         <div className="hidden md:block">
           <button className="bg-[#323232] hover:bg-white text-white hover:text-[#323232] text-sm font-semibold py-3 transition ease-in-out  px-8 rounded-2xl ">
-            Let's Talk
+          {"Let's Talk"}
           </button>
         </div>
       </div>

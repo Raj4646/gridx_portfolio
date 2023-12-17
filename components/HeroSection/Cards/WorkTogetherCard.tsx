@@ -26,7 +26,7 @@ export function WorkTogetherCard({ className, ...props }: CardProps) {
       <CardContent className="flex flex-row items-end justify-between">
         <div>
           <CardTitle className="text-white text-5xl font-medium">
-            Let's <br /> Work <span className="text-[#5B78F6]">Together</span>
+            {"Let's"} <br /> Work <span className="text-[#5B78F6]">Together</span>
           </CardTitle>
         </div>
         <Icon />
